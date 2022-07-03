@@ -72,6 +72,7 @@ Please list the software you require on the course virtual machine.
 |R||||
 | example | example | example | example | 
 | example | example | example | example | 
+| MAFFT | latest | [https://mafft.cbrc.jp/alignment/software/mafft-7.505-without-extensions-src.tgz](https://mafft.cbrc.jp/alignment/software/mafft-7.505-without-extensions-src.tgz) | Multiple Sequence Alignment |
 
 
 
